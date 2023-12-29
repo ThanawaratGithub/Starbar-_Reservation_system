@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&family=Noto+Sans+Thai&display=swap');
+
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Noto Sans Thai', sans-serif;
+  }
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 100%;
+    gap:20px;
+    text-align: center;
+  }
+.button{
+    width: 306px;
+height: 66px;
+flex-shrink: 0;
+}
+#reserve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+background: #A6A6A6;
+color: #000;
+
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+mix-blend-mode: darken;
+}
+#login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+background: #D9D9D9;
+color: #000;
+
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#register{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+border: 1px solid #797979;
+background: #FFF;
+color: #000;
+color: #797979;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
