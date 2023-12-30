@@ -11,9 +11,3 @@
 
 ## Development
 This project reflects a deep understanding of web development and database management, showcasing the ability to create a fully functional and user-friendly reservation system.
-
-## Contributions
-Suggestions and contributions to improve the system are always welcome. Feel free to fork, submit issues, or pull requests.
-
-## Contact
-For more information, queries, or suggestions, please contact [Your Contact Information].
